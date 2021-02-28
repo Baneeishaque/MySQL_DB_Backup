@@ -3,6 +3,4 @@
     "vulnerableCheckRunConclusionLevel": "failure"
   },
   "issueSettings": {
-    "minSeverityLevel": "LOW"
-  }
-}
+    "minSeverityLevel": "HIGH
